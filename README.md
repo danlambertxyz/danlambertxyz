@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @danlambertxyz
+- 👀 I’m interested in all things data. In particular, data engineering, data management, and data architecture.
+- 🌱 I’m currently learning Apache Beam and DataFlow.
+- 💞️ I’m open to collaborate on anything really!
+- 📫 Reach me on my LinkedIn - linkedin.com/in/daniellambert23/
